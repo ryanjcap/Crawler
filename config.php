@@ -30,7 +30,8 @@
  * Example:  "www.fcc.gov, broadband.com"
  *
  */
-$domains = "www.fcc.gov"; 
+$domains = "
+similarweb.com, united.com, chase.com, paypal.com, apple.com, comcast.net, microsoft.com, usps.com, americanexpress.com, ups.com, Verizonwireless.com, Fedex.com, Southwest.com, Fidelity.com, dell.com, hpe.com, Irs.gov, Wired.com, Hilton.com, Stanford.edu, harvard.edu, yale.edu, Nhl.com, nfl.com,Disney.go.com, go.com, royalcaribbean.com, celebritycruises.com, amtrak.com, aaa.com, eurail.com, raileurope.com, delta.com, aa.com, lufthansa.com, jetblue.com, britishairways.com, hawaiianairlines.com, virginamerica.com, virgin-atlantic.com, virgin.com, easyjet.com, iberia.com, emirates.com, klm.com, aircanada.com, marriott.com, hyatt.com,  holidayinn.com, ihg.com, starwoodhotels.com, hertz.com, bestwestern.com, airfrance.us, airfrance.com, easyjet.com, vueling.com, ryanair.com, nm.org, un.org, fao.org, iaea.org, icao.int, ifad.org, ilo.org, imf.org, imo.org, itu.int, unesco.org, unido.org, upu.int, who.int, wipo.int, worldbank.org, wmo.int, world-tourism.org, icann.org, iso.org, ansi.org, dnvgl.com, w3.org, asq.org, ul.com, microsoft.com, depaul.edu, Ny.gov, nyc.gov, cityofchicago.org, faa.gov, ntsb.gov, redcross.org, ifrc.org, icrc.org, equinix.com, de-cix.net, linx.net, ams-ix.net, msk-ix.ru, dataix.ru, ietf.org, intgovforum.org, ubuntu.com, jujucharms.com, aws.amazon.com, azure.microsoft.com, ibm.com, intel.com, godaddy.com, norton.com, mcafee.com, vmware.com, kaspersky.com, cisco.com, fireeye.com, paloaltonetworks.com, f5.com, boeing.com, boeing.com, lockheedmartin.com, northropgrumman.com, embraer.com, bombardier.com"; 
 
 /**
  * 
